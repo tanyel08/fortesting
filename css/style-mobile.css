@@ -28,5 +28,9 @@
         height: 17.944rem;
     }
 
+    .navbar h1 {
+    font-size: 2.618vw;
+}
+
 
 }
