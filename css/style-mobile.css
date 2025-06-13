@@ -2,7 +2,7 @@
 
     .navbar {
         flex-direction: column;
-        height: 11.082rem;
+        height: fit-content;
         padding: 1.618vw 3.618vw;
         box-sizing: content-box;
     }
