@@ -1,0 +1,32 @@
+@media(max-width: 1100px) {
+
+    .navbar {
+        height: 6.854rem;
+        padding: 1.618vw 3.618vw;
+        box-sizing: content-box;
+    }
+
+    .logo {
+        max-width: 4.236vw;
+    }
+
+    .right-nav a {
+        display: none;
+    }
+
+    .menu {
+        border-style: solid;
+        background-color: transparent;
+        border-radius: 5px;
+        border-width: 2px;
+        border-color: #11441e;
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    .image-div {
+        height: 17.944rem;
+    }
+
+
+}
